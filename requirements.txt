@@ -1,3 +1,1 @@
-seaborn
-requests==2.18.4
-PyYAML==3.12
+requests==2.19.1PyYAML==3.12
